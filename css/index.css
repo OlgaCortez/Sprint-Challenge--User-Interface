@@ -26,11 +26,38 @@ time, mark, audio, video {
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
+    
+    
+    display: block;
 }
+
 body {
 	line-height: 1;
 }
+
+header {
+    display: flex;
+    width: 100%;
+}
+
+header nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+header nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.top-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -101,16 +128,18 @@ p {
     justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
+.middle-content .boxes .box  {
     width: 12.5%;
     height: 100px;
-    background: black;
+    background:teal;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+
 
 .bottom-content {
     display: flex;
