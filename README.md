@@ -1,3 +1,27 @@
+Olga Cortez
+Self-Study Questions
+
+1.	If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Semantic HTML helps gives your page structure and easier searched on web browser.
+
+2.	Name two big differences between display: block; and display: inline;.
+
+Display block will start on a new line and respect margins and padding on all sides and display inline does not.
+
+3.	What are the 4 areas of the box model?
+
+Margin, border, padding, content.
+
+4.	While using flexbox, what axis does the following property work on: align-items: center?
+
+Cross-axis.
+
+5.	Explain why git is valuable to a team of developers.
+
+It’s a powerful tool that keeps track of every change made by each developer and allows multiple developers to access and work on projects.
+
+
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
