@@ -39,7 +39,7 @@ body {
 header nav {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
     padding: 20px 2%;
     font-size: 14px;
 }
